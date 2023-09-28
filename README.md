@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Dyly4g6C)
 # Homework 2 - Dev Setup and Deployment
 
@@ -42,7 +43,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: homework-2-MannyAdumbire
+- URL to live application:  https://prof-tejera.github.io/homework-2-MannyAdumbire/
 - What code editor are you using? VSCode
 
 That is all!
