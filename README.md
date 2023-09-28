@@ -42,7 +42,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: homework-2-MannyAdumbire
+- What code editor are you using? VSCode
 
 That is all!
